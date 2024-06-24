@@ -23,7 +23,7 @@ pip install numpy pandas scikit-learn
 Usage
 Clone this repository:
 
-git clone https://github.com/yourusername/Email-Spam-Detection-Using-Machine-Learning.git
+git clone https://github.com/Rahul21082004/Email-Spam-Detection-Using-Machine-Learning.git
 Navigate to the project directory:
 
 cd Email-Spam-Detection-Using-Machine-Learning
